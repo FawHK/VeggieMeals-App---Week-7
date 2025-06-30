@@ -7,11 +7,8 @@ This is an Android application designed to help you discover and save your favor
 ## Screenshots
 
 <p>
-<img src="./img/MainScreenGrid.png" width="200" alt="Home Screen">
-<img src="./img/MainScreenList.png" width="200" alt="Home Screen">
-<img src="./img/AccountScreen.png" width="200" alt="Account Screen">
-<img src="./img/MusicPlayerScreen.png" width="200" alt="Music Player Screen">
-<img src="./img/SearchScreen.png" width="200" alt="Home Screen">
+<img src="./img/HomeScreen.png" width="200" alt="Home Screen">
+<img src="./img/FavoritesScreen.png" width="200" alt="Home Screen">
 </p>
 
 ## Features
